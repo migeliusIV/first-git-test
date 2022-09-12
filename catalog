@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head> 
-<meta charset="utf-8" />
-<title> Каталог </title>
+	<meta charset="utf-8" />
+	<title> Каталог </title>
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 <body>
-<div class="main">
+	<div class="main">
 	<h1><i>Список товаров</i></h1>
-	<p> 	БУбубуббууубууубубубабаббебебебеабаббубу бубуб бабаабубу</p>
-	<p> Скипиди вапа папарам а ма скет мен. Скипиди вапа па. Вап ага</p>
-	<p> Концептуально, большинство других систем хранят информацию в виде списка изменений в файлах.</p>
-	<p> Так вот, бубубубабаба бабу буба бубу БУ, однако баба буба не баба</p>
-	<p> 	1. К изменённым относятся файлы, которые поменялись, но ещё не были зафиксированы.</p>
-	<p> 	2.Индексированный — это изменённый файл в его текущей версии, отмеченный для включения в следующий коммит </p> 
-	<p> 	3.Зафиксированный значит, что файл уже сохранён в вашей локальной базе. </p>
+	<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<h2><i> Ценовая политика </i></h2>
 </div>
 </body>
