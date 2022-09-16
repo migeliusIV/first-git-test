@@ -1,7 +1,32 @@
 body {
- color: blue;
- background: #bbb;
+ color: #131515;
+ background: #fffafb;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
 }
-h1 {
- text-align: center;
+.bighead {
+    color: #131515;
+    background: #7de2d1;
+    margin-top:4%;
+    margin-left:10%;
+    width: 300px;
+    height: 80px;
+    text-align:center;
+}
+.miniheads {
+    color: #2b2c28;
+    background: #339989;
+    width: 300px;
+    height: 60px;
+}
+.firstblock {
+    margin-left:10%;
+    width: 400px;
+    height: 180px;
+}
+.imgomg {
+    
+    margin-right:5%;
+    background-image: url(https://image.shutterstock.com/image-vector/statistics-vector-editable-icon-260nw-1132374020.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
 }
