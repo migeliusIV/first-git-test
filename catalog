@@ -6,10 +6,20 @@
 	<link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 <body>
-	<div class = "imgomg">
-		<h1 class = "bighead">Помогаем успевать</h1>
-		<div class="firstblock">
-			<p> Lorem ipsum - консалтинговая платформа, которая помогает ставить цели, контролировать сроки и эффективно распределять задачи.</p>
+	<div class="start">
+		<div class="logo">
+			<p><img src="https://musicmixedwithart.files.wordpress.com/2017/05/lorem_space_ipsum.png" width="180" height="70" alt="Винни-Пух"></p>
+		</div>
+		<div class="preview">
+			<h1 class="bighead">Помогаем успевать</h1>
+			<div class="firstblock">
+				<p> Lorem ipsum - консалтинговая платформа, которая помогает ставить цели, контролировать сроки и эффективно распределять задачи.</p>
+				<div class="firstpic">
+					<picture>
+						<img class="lazyload-initialized" src="https://roistat.com/img/index_2021/cover_2022v2@2x.webp" width="600" height="500" alt="">
+					</picture>
+			</div>
+			</div>
 		</div>
 	</div>
 </body>
