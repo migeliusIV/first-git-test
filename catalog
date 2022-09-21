@@ -6,21 +6,25 @@
 	<link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 <body>
-	<div class="start">
+	<div>
 		<div class="logo">
-			<p><img src="https://musicmixedwithart.files.wordpress.com/2017/05/lorem_space_ipsum.png" width="180" height="70" alt="Винни-Пух"></p>
+			<p style="margin-top:0"><img src="https://musicmixedwithart.files.wordpress.com/2017/05/lorem_space_ipsum.png" width="120" height="40" alt="Винни-Пух" vspace="0" hspace="5">
+			<div class="connection">
+				Phone/e-mail
+			</div>
 		</div>
 		<div class="preview">
 			<h1 class="bighead">Помогаем успевать</h1>
 			<div class="firstblock">
 				<p> Lorem ipsum - консалтинговая платформа, которая помогает ставить цели, контролировать сроки и эффективно распределять задачи.</p>
 				<div class="firstpic">
-					<picture>
-						<img class="lazyload-initialized" src="https://roistat.com/img/index_2021/cover_2022v2@2x.webp" width="600" height="500" alt="">
-					</picture>
-			</div>
+					<p><img class="lazyload-initialized" src="https://roistat.com/img/index_2021/cover_2022v2@2x.webp" width="600" height="500" alt=""></p>
+				</div>
 			</div>
 		</div>
+	</div>
+	<div class="secondpg">
+		Вход/Регистрация
 	</div>
 </body>
 </html> 
